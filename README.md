@@ -6,3 +6,14 @@ A curated list of awesome multi-agent simulation frameworks, tools &amp; other r
 
 ### :snake: Python
 
+#### General purpose
+
+* [Mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python.
+
+#### Blockchain
+
+* [Simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
+
+#### NN
+
+* [Brian2](https://github.com/brian-team/brian2) - Brian is a free, open source simulator for spiking neural networks. http://briansimulator.org
