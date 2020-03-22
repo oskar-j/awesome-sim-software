@@ -14,6 +14,18 @@ A curated list of awesome multi-agent simulation frameworks, tools &amp; other r
 
 * [Simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
 
-#### NN
+#### ANN (Artificial neural networks)
 
 * [Brian2](https://github.com/brian-team/brian2) - Brian is a free, open source simulator for spiking neural networks. http://briansimulator.org
+
+### Java
+
+#### General purpose
+
+* [gama](https://github.com/gama-platform/gama) - Core plug-in projects of the GAMA platform. - https://gama-platform.github.io/
+
+### JavaScript
+
+#### General purpose
+
+* [js-simulator](https://github.com/chen0040/js-simulator) - General-purpose discrete-event multiagent simulation library for agent-based modelling and simulation.
