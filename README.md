@@ -18,7 +18,9 @@ Legend:
 
 * 🧰 [Mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python.
 
-* [ai-economist](https://github.com/salesforce/ai-economist) - Foundation: An Economic Simulation Framework
+* [ai-economist](https://github.com/salesforce/ai-economist) - Foundation: An Economic Simulation Framework.
+
+* [simupy](https://github.com/simupy/simupy) - A framework for modeling and simulating dynamical systems.
 
 #### Blockchain
 
