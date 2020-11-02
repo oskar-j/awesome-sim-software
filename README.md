@@ -1,6 +1,12 @@
 # Awesome Software for Simulations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome multi-agent simulation frameworks, tools &amp; other repositories for simulations
+A curated list of awesome multi-agent simulation frameworks, tools &amp; other repositories for simulations.
+
+Legend:
+
+🧠 - specialized frameworks for e.g. neural networks
+🦠 - frameworks for bio-science
+🧰 - general purpose frameworks
 
 ## Frameworks and libraries
 
@@ -8,7 +14,7 @@ A curated list of awesome multi-agent simulation frameworks, tools &amp; other r
 
 #### General purpose
 
-* [Mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python.
+* 🧰 [Mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python.
 
 #### Blockchain
 
@@ -16,13 +22,13 @@ A curated list of awesome multi-agent simulation frameworks, tools &amp; other r
 
 #### ANN (Artificial neural networks)
 
-* [Brian2](https://github.com/brian-team/brian2) - Brian is a free, open source simulator for spiking neural networks. http://briansimulator.org
+* 🧠 [Brian2](https://github.com/brian-team/brian2) - Brian is a free, open source simulator for spiking neural networks. http://briansimulator.org
 
 ### R
 
 #### Infectious disease dynamics
 
-* [EpiModel](https://github.com/statnet/EpiModel) - Mathematical Modeling of Infectious Disease Dynamics. http://epimodel.org
+* 🦠 [EpiModel](https://github.com/statnet/EpiModel) - Mathematical Modeling of Infectious Disease Dynamics. http://epimodel.org
 
 ### Java
 
