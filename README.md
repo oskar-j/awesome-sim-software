@@ -49,3 +49,9 @@ Legend:
 #### General purpose
 
 * 🧰 [js-simulator](https://github.com/chen0040/js-simulator) - General-purpose discrete-event multiagent simulation library for agent-based modelling and simulation.
+
+### Matlab
+
+#### Navigation
+
+* [NaveGo](https://github.com/rodralez/NaveGo) - An open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.
