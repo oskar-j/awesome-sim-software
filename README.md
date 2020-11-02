@@ -44,6 +44,10 @@ Legend:
 
 * 🧰 [SARL Agent Programming Language](https://github.com/sarl/sarl) - SARL Agent-Oriented Programming Language. http://www.sarl.io
 
+#### Cloud services optimization
+
+* [cloudsim-plus](https://github.com/manoelcampos/cloudsim-plus) - A modern, full-featured, easier-to-use, highly extensible, faster and more accurate Java 8+ Framework for Cloud Computing Simulation.
+
 ### JavaScript
 
 #### General purpose
