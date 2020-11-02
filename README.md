@@ -35,9 +35,11 @@ Legend:
 
 * [Simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
 
-#### ANN (Artificial neural networks)
+#### SNN (Spiking neural networks)
 
 * 🧠 [Brian2](https://github.com/brian-team/brian2) - Brian is a free, open source simulator for spiking neural networks. http://briansimulator.org
+
+* 🧠 [SpykeTorch](https://github.com/miladmozafari/SpykeTorch) - High-speed simulator of convolutional spiking neural networks with at most one spike per neuron.
 
 ### R
 
