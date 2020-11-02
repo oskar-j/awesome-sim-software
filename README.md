@@ -5,7 +5,9 @@ A curated list of awesome multi-agent simulation frameworks, tools &amp; other r
 Legend:
 
 🧠 - specialized frameworks for e.g. neural networks
+
 🦠 - frameworks for bio-science
+
 🧰 - general purpose frameworks
 
 ## Frameworks and libraries
@@ -30,16 +32,16 @@ Legend:
 
 * 🦠 [EpiModel](https://github.com/statnet/EpiModel) - Mathematical Modeling of Infectious Disease Dynamics. http://epimodel.org
 
-### Java
+### :coffee: Java
 
 #### General purpose
 
 * [gama](https://github.com/gama-platform/gama) - Core plug-in projects of the GAMA platform. - https://gama-platform.github.io/
 
-* [SARL Agent Programming Language](https://github.com/sarl/sarl) - SARL Agent-Oriented Programming Language. http://www.sarl.io
+* 🧰 [SARL Agent Programming Language](https://github.com/sarl/sarl) - SARL Agent-Oriented Programming Language. http://www.sarl.io
 
 ### JavaScript
 
 #### General purpose
 
-* [js-simulator](https://github.com/chen0040/js-simulator) - General-purpose discrete-event multiagent simulation library for agent-based modelling and simulation.
+* 🧰 [js-simulator](https://github.com/chen0040/js-simulator) - General-purpose discrete-event multiagent simulation library for agent-based modelling and simulation.
