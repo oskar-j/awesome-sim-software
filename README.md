@@ -10,6 +10,14 @@ Legend:
 
 🧰 - general purpose frameworks
 
+## Quick jump to particular language
+
+1. [Python](https://github.com/oskar-j/awesome-sim-software#snake-python)
+2. [R](https://github.com/oskar-j/awesome-sim-software#r)
+3. [Java](https://github.com/oskar-j/awesome-sim-software#coffee-java)
+4. [JavaScript](https://github.com/oskar-j/awesome-sim-software#javascript)
+5. [Matlab](https://github.com/oskar-j/awesome-sim-software#matlab)
+
 ## Frameworks and libraries
 
 ### :snake: Python
