@@ -17,6 +17,7 @@ Legend:
 3. [Java](https://github.com/oskar-j/awesome-sim-software#coffee-java)
 4. [JavaScript](https://github.com/oskar-j/awesome-sim-software#javascript)
 5. [Matlab](https://github.com/oskar-j/awesome-sim-software#matlab)
+6. [Julia](https://github.com/oskar-j/awesome-sim-software#julia)
 
 ## Frameworks and libraries
 
@@ -67,3 +68,9 @@ Legend:
 #### Navigation
 
 * [NaveGo](https://github.com/rodralez/NaveGo) - An open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.
+
+### Julia
+
+#### General purpose
+
+* 🧰 [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) - Agent-based modeling framework in Julia.
