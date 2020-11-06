@@ -78,3 +78,9 @@ Legend:
 * 🧰 [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) - Agent-based modeling framework in Julia.
 
 * [Causal.jl](https://github.com/zekeriyasari/Causal.jl) - A modeling and simulation framework adopting causal modeling approach. https://zekeriyasari.github.io/Causal.jl/dev/
+
+### C++
+
+#### Bioinformatics
+
+* 🦠 [PhysiCell](https://github.com/MathCancer/PhysiCell) - An Open Source Physics-Based Cell Simulator for 3-D Multicellular Systems.
