@@ -76,3 +76,5 @@ Legend:
 #### General purpose
 
 * 🧰 [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) - Agent-based modeling framework in Julia.
+
+* [Causal.jl](https://github.com/zekeriyasari/Causal.jl) - A modeling and simulation framework adopting causal modeling approach. https://zekeriyasari.github.io/Causal.jl/dev/
