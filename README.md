@@ -18,6 +18,7 @@ Legend:
 4. [JavaScript](https://github.com/oskar-j/awesome-sim-software#javascript)
 5. [Matlab](https://github.com/oskar-j/awesome-sim-software#matlab)
 6. [Julia](https://github.com/oskar-j/awesome-sim-software#julia)
+7. [C++](https://github.com/oskar-j/awesome-sim-software#c)
 
 ## Frameworks and libraries
 
