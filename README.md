@@ -34,6 +34,10 @@ Legend:
 
 * [simupy](https://github.com/simupy/simupy) - A framework for modeling and simulating dynamical systems.
 
+#### Reinforcement learning
+
+* [Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning systems and components.
+
 #### Blockchain
 
 * [Simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
