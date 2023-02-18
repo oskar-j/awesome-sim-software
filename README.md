@@ -10,6 +10,8 @@ Legend:
 
 🦠 - frameworks for bio-science
 
+🚗 - autonomous vehicles
+
 🧰 - general purpose frameworks
 
 ## Quick jump to particular language
@@ -87,6 +89,10 @@ Legend:
 * [Causal.jl](https://github.com/zekeriyasari/Causal.jl) - A modeling and simulation framework adopting causal modeling approach. https://zekeriyasari.github.io/Causal.jl/dev/
 
 ### C++
+
+#### Autonomous vehicles
+
+* 🚗 [AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
 
 #### Bioinformatics
 
