@@ -40,6 +40,10 @@ Legend:
 
 * [Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning systems and components.
 
+* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym, made by Farama Foundation).
+
+* [PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities (made by Farama Foundation).
+
 #### Blockchain
 
 * [Simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
